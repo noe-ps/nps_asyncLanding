@@ -1,0 +1,23 @@
+{
+  "name": "nps_asynclanding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noe-ps/nps_asyncLanding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noe-ps/nps_asyncLanding/issues"
+  },
+  "homepage": "https://github.com/noe-ps/nps_asyncLanding#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
